@@ -19,3 +19,5 @@ By using Microsoft- Excel tool : This dashboard provides a comprehensive view of
 
 
 This experience has greatly enhanced my data analytics and visualization skills.
+![Excel](https://github.com/user-attachments/assets/221a9252-a23e-4107-b78d-ac3be17d1542)
+
